@@ -1,5 +1,7 @@
-# Script to create user accounts
+# Note
+This is a subcode from my [MicrosoftEntra_AzureAD](MicrosoftEntra_AzureAD) respiratory.
 
+## Script to create user accounts
 Using [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4) and the [Microsoft Graph SDK](https://learn.microsoft.com/en-us/graph/sdks/sdks-overview), the [UserAccountProvision script](UserAccountProvision.ps1) will create a user account in Microsoft Entra.
 It will
 1. 1. Install [Microsoft Graph](https://learn.microsoft.com/en-us/powershell/microsoftgraph/installation?view=graph-powershell-1.0). If you already have it installed, you can skip or comment it out.
