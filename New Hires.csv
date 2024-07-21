@@ -1,0 +1,3 @@
+FirstName,LastName,UserType,JobTitle,CompanyName,Department,EmployeeID,EmployeeType,EmployeeHireDate,OfficeLocation
+John,Doe,Member,Software Engineer,TechCorp,IT,12345,FullTime,2024-01-15,New York
+Jane,Smith,Guest,Project Manager,TechCorp,IT,67890,Contract,2024-02-20,San Francisco
